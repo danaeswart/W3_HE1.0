@@ -43,3 +43,22 @@ header img{
 
 
 }
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px ;
+    color: rgb(76, 143, 143);
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing:3px ;
+
+}
+.text{
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
